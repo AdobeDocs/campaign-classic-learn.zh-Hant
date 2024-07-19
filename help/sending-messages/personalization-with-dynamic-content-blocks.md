@@ -1,6 +1,6 @@
 ---
 title: 使用動態內容區塊個人化電子郵件
-description: 本教學課程示範如何個人化傳遞內容、在傳遞範本中使用JavaScript程式碼，以及在不同傳遞範本中標準化和共用內容區塊。
+description: 本教學課程示範如何個人化傳遞內容、在傳遞範本中使用JavaScript程式碼，以及在不同傳遞範本中標準化及共用內容區塊。
 feature: Personalization
 jira: KT-1559
 doc-type: feature video
@@ -8,8 +8,8 @@ activity: use
 team: TM
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '263'
-ht-degree: 66%
+source-wordcount: '258'
+ht-degree: 71%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 66%
 3 ── 插入動態的個人化欄位。\
 4 ── 建立條件式內容。
 
-本教學課程示範如何個人化傳遞內容、在傳遞範本中使用JavaScript程式碼，以及在不同傳遞範本中標準化和共用內容區塊。
+本教學課程示範如何個人化傳遞內容、在傳遞範本中使用JavaScript程式碼，以及在不同傳遞範本中標準化及共用內容區塊。
 
 ## 建立個人化區塊並新增至傳遞
 
@@ -43,4 +43,4 @@ ht-degree: 66%
 
 >[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12&learn=on){transcript=true}
 
-若要深入瞭解個人化，請參閱 [產品檔案](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en).
+若要深入瞭解Personalization，請參閱[產品檔案](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en)。

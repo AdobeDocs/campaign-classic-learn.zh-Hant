@@ -8,7 +8,7 @@ activity: use
 team: PM
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '315'
 ht-degree: 79%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 79%
 ### 症狀：執行個體未列於 [!UICONTROL Control Panel]
 
 **原因：**
-最有可能的使用者必須新增為「使用者」產品設定檔 _Campaign-xxx-Administrators/Admin_ 針對缺少的執行個體
+可能是，使用者必須新增為消失的執行個體的使用者產品設定檔_Campaign-xxx-Administrators/Admin_
 
 **該做什麼：**
 管理員需要將使用者新增至產品設定檔 _Campaign-xxx-Admins_，以便管理執行個體。如果使用者是所有執行個體的管理員，則他們仍需將自己新增為「使用者」。

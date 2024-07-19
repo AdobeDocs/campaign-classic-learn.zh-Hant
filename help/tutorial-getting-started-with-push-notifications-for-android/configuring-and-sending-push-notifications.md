@@ -12,18 +12,18 @@ level: Beginner, Intermediate, Experienced
 exl-id: 42adcaca-248f-4637-88c4-f9d24cd26dd6
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '53'
-ht-degree: 3%
+source-wordcount: '54'
+ht-degree: 7%
 
 ---
 
 # 設定和傳送推播通知
 
-瞭解如何設定並傳送 [!DNL push] 通知使用者 [!DNL Android] 應用程式。
+瞭解如何設定[!DNL push]通知並傳送給[!DNL Android]應用程式的使用者。
 
 >[!VIDEO](https://video.tv.adobe.com/v/328154?quality=12&learn=on){transcript=true}
 
 **上一步**
 
-步驟2： [在Campaign中設定Android服務及建立Android行動應用程式](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)
+步驟2：[在Campaign中設定Android服務並建立Android行動應用程式](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)
 

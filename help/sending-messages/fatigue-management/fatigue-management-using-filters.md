@@ -11,8 +11,8 @@ level: Experienced
 exl-id: c6fcdaa9-75ae-4975-9463-ca32a2ae849a
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 33%
+source-wordcount: '97'
+ht-degree: 29%
 
 ---
 
@@ -24,4 +24,4 @@ ht-degree: 33%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25091?quality=12&learn=on){transcript=true}
 
-請瀏覽產品檔案以深入瞭解 [行銷活動型別](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=zh-Hant).
+請瀏覽產品檔案以進一步瞭解[行銷活動型別](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=zh-Hant)。

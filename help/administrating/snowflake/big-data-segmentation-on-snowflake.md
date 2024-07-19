@@ -11,14 +11,14 @@ level: Experienced
 exl-id: e46560c3-d911-4cd9-8be2-8057c70d7881
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 55%
+source-wordcount: '105'
+ht-degree: 63%
 
 ---
 
 # Snowflake 上的巨量資料管理
 
-本教學課程說明如何善用 [!DNL Snowflake] Adobe Campaign Classic中的聯結器。
+本教學課程說明如何在Adobe Campaign Classic中善用[!DNL Snowflake]聯結器。
 您將瞭解到
 
 * 連結到 Snowflake
@@ -32,4 +32,4 @@ ht-degree: 55%
 
 >[!VIDEO](https://video.tv.adobe.com/v/31588?quality=12&learn=on){transcript=true}
 
-如需如何設定Snowflake存取許可權的詳細資訊，請參閱 [產品檔案](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/configure-fda/config-databases/configure-fda-snowflake.html?lang=en#installing-campaign-classic).
+如需有關如何設定存取許可權以進行Snowflake的詳細資訊，請參閱[產品檔案](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/configure-fda/config-databases/configure-fda-snowflake.html?lang=en#installing-campaign-classic)。

@@ -11,9 +11,9 @@ role: User
 level: Beginner
 exl-id: e0128b5f-3f09-460b-8524-624edeb27c4f
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
-workflow-type: ht
-source-wordcount: '90'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '95'
+ht-degree: 77%
 
 ---
 
@@ -25,4 +25,4 @@ ht-degree: 100%
 
 >[!IMPORTANT]
 >如果目標定位工作流程中有多個傳遞，您必須在傳遞層級與行銷活動設定中啟用控制組設定。
->請參閱產品文件以瞭解有關[如何定義控制組](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-target.html?lang=zh-Hant#defining-a-control-group){target="_blank"} and [the delivery target population](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-defining-the-target-population.html?lang=zh-Hant){target="_blank"}的詳細資訊
+>請參閱產品檔案，深入瞭解如何定義控制組](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-target.html?lang=zh-Hant#defining-a-control-group){target="_blank"}及[傳遞目標母體](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-defining-the-target-population.html?lang=zh-Hant){target="_blank"}[

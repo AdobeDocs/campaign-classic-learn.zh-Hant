@@ -12,8 +12,8 @@ level: Beginner
 exl-id: a649e71c-1866-4596-88cf-0ede861c8845
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 82%
+source-wordcount: '59'
+ht-degree: 84%
 
 ---
 
@@ -23,4 +23,4 @@ ht-degree: 82%
 
 >[!VIDEO](https://video.tv.adobe.com/v/329936?quality=12&learn=on){transcript=true}
 
-如需詳細資訊，請參閱[產品文件](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html?lang=en).
+如需詳細資訊，請參閱[產品檔案](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html?lang=en)。
