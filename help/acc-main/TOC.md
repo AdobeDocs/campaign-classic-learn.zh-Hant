@@ -5,7 +5,7 @@ user-guide-title: Adobe Campaign Classic v7 教學課程
 user-guide-description: Adobe Campaign Classic v7 影片和教學課程。
 breadcrumb-title: Campaign Classic v7 教學課程
 auto-video-transcripts: true
-source-git-commit: 1dc9c2423e3643e8d73719f5813ea99e14414f9c
+source-git-commit: c87b64213114f35d01e0edd8b13b0bab483ec346
 workflow-type: tm+mt
 source-wordcount: '415'
 ht-degree: 98%
@@ -47,6 +47,8 @@ ht-degree: 98%
       + [疑難排解電子郵件傳遞問題](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
       + [將附件新增至電子郵件傳遞](/help/sending-messages/email-channel/add-attachments-to-an-email-delivery.md)
       + [設計電子郵件以提供傳遞能力](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
+      + [盡可能提高電子郵件 ROI，以及讓使用者重新參與的最佳實務](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=zh-Hant)
+      + [傳遞能力最佳實務指南](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=zh-Hant)
    + 簡訊頻道{#sms-channel}
       + [建立簡訊傳遞](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
    + 推播頻道{#push-channel}
@@ -106,5 +108,4 @@ ht-degree: 98%
 + [疑難排解 Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=zh-Hant)
 + 策略與思想領導{#strategy}
    + [Adobe Campaign 成功行銷的十大最佳實務](/help/strategy/10-best-practices-for-marketers.md)
-   + [盡可能提高電子郵件 ROI，以及讓使用者重新參與的最佳實務](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=zh-Hant)
-   + [傳遞能力最佳實務指南](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=zh-Hant)
+   + 
