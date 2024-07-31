@@ -5,7 +5,7 @@ user-guide-title: Adobe Campaign Classic v7 教學課程
 user-guide-description: Adobe Campaign Classic v7 影片和教學課程。
 breadcrumb-title: Campaign Classic v7 教學課程
 auto-video-transcripts: true
-source-git-commit: c87b64213114f35d01e0edd8b13b0bab483ec346
+source-git-commit: 6a43734b768f5bf8b3f6c605118a3c67e24d9cd3
 workflow-type: tm+mt
 source-wordcount: '415'
 ht-degree: 98%
@@ -108,4 +108,3 @@ ht-degree: 98%
 + [疑難排解 Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=zh-Hant)
 + 策略與思想領導{#strategy}
    + [Adobe Campaign 成功行銷的十大最佳實務](/help/strategy/10-best-practices-for-marketers.md)
-   + 
