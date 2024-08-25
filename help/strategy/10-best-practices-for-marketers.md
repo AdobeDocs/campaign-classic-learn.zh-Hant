@@ -38,7 +38,7 @@ Adobe Campaign 是一項彈性工具，可讓您以多種方式執行及協調�
 
 I added that second paragraph about 760% revenue and broke up the rest of the section, touched it up to help make the Hubspot example a little more impactful. If I altered this section too much, you can reject the change. It didn't have mistakes, but it felt like it didn't tie the segment example strongly enough to the point about data design. See if this is okay...-->
 
-根據 [Hubspot 研究](https://www.linkedin.com/pulse/customer-segmentation-effective-b2b-business-industry-sabreen)，與非細分行銷活動相比，細分行銷活動的開放率可提高14.31%，而點擊次數可增加 101%。 電子郵件行銷人員指出若在行銷活動之前細分受眾，產生的收入可增加高達 760%。
+根據 [Hubspot 研究](https://www.linkedin.com/pulse/customer-segmentation-effective-b2b-business-industry-sabreen)，與非細分行銷活動相比，細分行銷活動的開放率可提高14.31%，而點擊次數可增加 101%。 電子郵件行銷人員指出若在行銷活動之前細分客群，產生的收入可增加高達 760%。
 
 您可在 Adobe Campaign 快速輕鬆規劃細分。 然而，為簡化並促進流程，行銷活動營運商與行銷從業人員在設計及要求建立並執行行銷活動時，必須對其基礎資料具書面了解。 跟支援您[!DNL Campaign]執行個體的管理員與開發人員合作時，請務必了解您目前的資料，以及如何預測可能需要的資料。
 
