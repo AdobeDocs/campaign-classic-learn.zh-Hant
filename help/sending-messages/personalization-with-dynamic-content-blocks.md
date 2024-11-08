@@ -5,8 +5,9 @@ feature: Personalization
 jira: KT-1559
 doc-type: feature video
 activity: use
+level: Intermediate
 team: TM
-source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
+source-git-commit: a6fac47b141f8731f8798c2e45a87ceab08bc54f
 workflow-type: tm+mt
 source-wordcount: '252'
 ht-degree: 70%
@@ -16,7 +17,7 @@ ht-degree: 70%
 
 # 使用動態內容區塊個人化電子郵件
 
-在 Adobe Campaign，您可以製作個人化內容或訊息外觀，並將其與收件者設定檔的條件結合。一般而言，此工具允許您：
+在 Adobe Campaign，您可以製作個人化內容或訊息外觀，並將其與收件者輪廓的條件結合。一般而言，此工具允許您：
 
 1 ── 建立自訂個人化區塊\
 2 ── 插入預先定義的個人化區塊\

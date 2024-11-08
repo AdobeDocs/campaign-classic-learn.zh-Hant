@@ -3,12 +3,12 @@ title: 將Campaign Classic V7與Adobe Target整合
 description: 瞭解如何透過 Adobe Target 提供的動態內容個性化交付。
 feature: Target Integration
 role: User
-level: Beginner, Intermediate, Experienced
+level: Intermediate
 jira: KT-9601
 thumbnail: 341030.jpg
 exl-id: 1338427d-d75e-4480-9377-f8e68e067364
 badgeIntegration: label="整合" type="positive"
-source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
+source-git-commit: a6fac47b141f8731f8798c2e45a87ceab08bc54f
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 43%

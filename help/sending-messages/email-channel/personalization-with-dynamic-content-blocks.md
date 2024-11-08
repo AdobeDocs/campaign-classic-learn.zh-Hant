@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: TM
 role: Admin, Developer
-level: Beginner
+level: Experienced
 exl-id: 0f49c286-ebb7-419d-98ab-89a8c0772636
-source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
+source-git-commit: a6fac47b141f8731f8798c2e45a87ceab08bc54f
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 100%
@@ -20,7 +20,7 @@ ht-degree: 100%
 
 # 使用動態內容區塊製作個人化電子郵件
 
-在 Adobe Campaign，您可以將內容或訊息外觀個人化，並將其與收件者設定檔的條件結合。
+在 Adobe Campaign，您可以將內容或訊息外觀個人化，並將其與收件者輪廓的條件結合。
 
 個人化區塊為動態、個人化的區塊，並包含可以新增至傳遞的特定轉譯程式碼。例如，您可以新增影像、電子郵件標題、電子郵件頁尾、鏡像頁面連結、取消訂閱連結等。
 
