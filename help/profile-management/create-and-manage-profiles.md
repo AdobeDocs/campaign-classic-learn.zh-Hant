@@ -1,6 +1,6 @@
 ---
 title: 建立和管理輪廓
-description: 了解如何存取輪廓資料、排序和篩選輪廓，以及手動建立和管理輪廓。 了解應該遵守一般資料保護規範 (GDPR) 和加州消費者隱私保護法 (CCPA) 的規定。
+description: 了解如何存取設定檔資料、排序和篩選設定檔，以及手動建立和管理設定檔。了解應該遵守一般資料保護規範 (GDPR) 和加州消費者隱私保護法 (CCPA) 的規定。
 landing-page-description: 瞭解輪廓的相關概念。瞭解如何存取輪廓資料、排序和篩選輪廓，以及手動建立和管理輪廓。了解 GDPR 和 CCPA。
 short-description: 瞭解輪廓的相關概念。瞭解如何存取輪廓資料、排序和篩選輪廓，以及手動建立和管理輪廓。了解 GDPR 和 CCPA。
 feature: Profiles
