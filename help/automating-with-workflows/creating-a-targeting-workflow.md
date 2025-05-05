@@ -23,4 +23,4 @@ Adobe Campaign使用工作流程來執行目標定位行銷活動、建立行銷
 >[!VIDEO](https://video.tv.adobe.com/v/25605?quality=12&learn=on){transcript=true}
 
 請參閱有關工作流程[&#128279;](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=zh-Hant)的檔案
-和[關於目標定位活動](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html)以取得詳細資訊。
+和[關於目標定位活動](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html?lang=zh-Hant)以取得詳細資訊。
