@@ -20,4 +20,4 @@ ht-degree: 100%
 
 瞭解如何在 Adobe Campaign Classic 建立調查。
 
->[!VIDEO](https://video.tv.adobe.com/v/3415810/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448084/?learn=on&captions=chi_hant){transcript=true}

@@ -18,4 +18,4 @@ ht-degree: 100%
 
 了解如何增加可在執行個體上平行執行的行銷活動工作流程數量。
 
->[!VIDEO](https://video.tv.adobe.com/v/335982?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436585?quality=12&learn=on&captions=chi_hant){transcript=true}

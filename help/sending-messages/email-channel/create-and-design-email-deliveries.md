@@ -21,6 +21,6 @@ ht-degree: 100%
 
 瞭解建立電子郵件傳遞的流程，同時瞭解如何設計和個人化電子郵件內容。
 
->[!VIDEO](https://video.tv.adobe.com/v/330941?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447788?quality=12&learn=on&captions=chi_hant){transcript=true}
 
 如需詳細資訊，請參閱[產品文件](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-the-email-content.html?lang=zh-Hant)

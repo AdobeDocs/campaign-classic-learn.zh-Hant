@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解如何將附件新增至電子郵件傳遞，以及如何設定不同類型的電子郵件附件。
 
->[!VIDEO](https://video.tv.adobe.com/v/3415789?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453000?quality=12&learn=on&captions=chi_hant){transcript=true}

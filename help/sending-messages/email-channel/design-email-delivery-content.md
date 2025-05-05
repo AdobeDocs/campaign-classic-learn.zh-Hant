@@ -20,4 +20,4 @@ ht-degree: 100%
 
 了解如何設定、個人化及測試電子郵件傳遞內容。 了解如何使用範本、上傳影像、新增表情符號，以及內嵌條碼與 QR 碼。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419047?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453873?learn=on&captions=chi_hant){transcript=true}

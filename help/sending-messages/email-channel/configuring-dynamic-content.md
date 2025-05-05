@@ -21,6 +21,6 @@ ht-degree: 84%
 
 瞭解不同類型的動態內容，並瞭解如何建立個人化區塊和條件陳述式並套用至傳遞。
 
->[!VIDEO](https://video.tv.adobe.com/v/329936?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453353?quality=12&learn=on&captions=chi_hant){transcript=true}
 
 如需詳細資訊，請參閱[產品檔案](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html?lang=zh-Hant)。

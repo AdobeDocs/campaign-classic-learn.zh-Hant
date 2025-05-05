@@ -21,4 +21,4 @@ ht-degree: 18%
 
 瞭解如何使用查詢編輯器查詢資料。
 
->[!VIDEO](https://video.tv.adobe.com/v/3415814?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447881?quality=12&learn=on&captions=chi_hant){transcript=true}

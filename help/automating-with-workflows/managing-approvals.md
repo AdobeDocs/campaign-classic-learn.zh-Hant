@@ -22,6 +22,6 @@ ht-degree: 50%
 透過核准，操作員可決定管理工作流程的管理決策，或確認工作流程的繼續執行。
 瞭解如何設定核准和行銷活動，以及如何區分傳遞和工作流程核准。
 
->[!VIDEO](https://video.tv.adobe.com/v/329605?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452629?quality=12&learn=on&captions=chi_hant){transcript=true}
 
 若要進一步瞭解如何定義核准，請參閱[產品檔案](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html?lang=zh-Hant#sending-emails)。

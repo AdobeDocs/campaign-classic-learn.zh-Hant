@@ -18,4 +18,4 @@ ht-degree: 100%
 
 了解如何修正非管理員使用者的發佈錯誤
 
->[!VIDEO](https://video.tv.adobe.com/v/335979?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436718?quality=12&learn=on&captions=chi_hant){transcript=true}

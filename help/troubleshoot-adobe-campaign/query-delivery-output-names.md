@@ -18,4 +18,4 @@ ht-degree: 100%
 
 了解如何擷取傳遞 XML 資料
 
->[!VIDEO](https://video.tv.adobe.com/v/335949?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436729?quality=12&learn=on&captions=chi_hant){transcript=true}

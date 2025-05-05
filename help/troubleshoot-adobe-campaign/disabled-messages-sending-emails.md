@@ -17,4 +17,4 @@ ht-degree: 100%
 # 觸發電子郵件的停用訊息
 
 了解如何阻止停用傳送發出的電子郵件
->[!VIDEO](https://video.tv.adobe.com/v/335981?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437122?quality=12&learn=on&captions=chi_hant){transcript=true}

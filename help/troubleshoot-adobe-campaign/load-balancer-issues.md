@@ -16,4 +16,4 @@ ht-degree: 100%
 # 負載平衡器問題
 
 了解如何修正執行個體重新啟動時的負載平衡器問題
->[!VIDEO](https://video.tv.adobe.com/v/335984?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437502?quality=12&learn=on&captions=chi_hant){transcript=true}

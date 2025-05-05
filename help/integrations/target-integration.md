@@ -19,7 +19,7 @@ ht-degree: 43%
 
 瞭解如何透過 Adobe Target 提供的動態內容個性化交付。
 
->[!VIDEO](https://video.tv.adobe.com/v/341030?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453268?quality=12&learn=on&captions=chi_hant){transcript=true}
 
 >[!NOTE]
 > 此影片已在Campaign V8中錄製，Campaign Classic V7和Campaign V8的功能相同。

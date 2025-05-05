@@ -18,4 +18,4 @@ ht-degree: 100%
 
 了解如何修正零 (0) 識別碼的問題
 
->[!VIDEO](https://video.tv.adobe.com/v/335987?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3440154?quality=12&learn=on&captions=chi_hant){transcript=true}

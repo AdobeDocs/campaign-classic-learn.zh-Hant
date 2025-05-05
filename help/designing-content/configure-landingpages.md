@@ -21,6 +21,6 @@ ht-degree: 0%
 
 瞭解如何建立和設定登入頁面。
 
->[!VIDEO](https://video.tv.adobe.com/v/3415819/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448917/?quality=12&learn=on&captions=chi_hant){transcript=true}
 
 如需詳細資訊，請參閱有關[建立登入頁面](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html?lang=zh-Hant)的詳細檔案。

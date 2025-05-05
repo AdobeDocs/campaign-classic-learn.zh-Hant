@@ -18,4 +18,4 @@ ht-degree: 100%
 
 了解如何修正主控台登入期間發生的錯誤
 
->[!VIDEO](https://video.tv.adobe.com/v/335896?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437777?quality=12&learn=on&captions=chi_hant){transcript=true}

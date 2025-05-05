@@ -19,4 +19,4 @@ ht-degree: 100%
 
 了解如何將時區套用至排定的工作流程活動。
 
->[!VIDEO](https://video.tv.adobe.com/v/3416040?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443860?quality=12&learn=on&captions=chi_hant){transcript=true}

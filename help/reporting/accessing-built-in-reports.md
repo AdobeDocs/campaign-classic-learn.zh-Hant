@@ -21,4 +21,4 @@ ht-degree: 54%
 
 瞭解Campaign Classic中的內建報告和分析，以及如何產生傳遞報告。
 
->[!VIDEO](https://video.tv.adobe.com/v/329935?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449497?quality=12&learn=on&captions=chi_hant){transcript=true}

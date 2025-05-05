@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解如何設定 A/B 測試的傳遞。
 
->[!VIDEO](https://video.tv.adobe.com/v/3415929?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446298?quality=12&learn=on&captions=chi_hant){transcript=true}

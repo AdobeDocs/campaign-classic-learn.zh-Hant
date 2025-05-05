@@ -19,4 +19,4 @@ ht-degree: 100%
 
 了解如何在工作流程設定排程器活動。
 
->[!VIDEO](https://video.tv.adobe.com/v/3416037?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447120?quality=12&learn=on&captions=chi_hant){transcript=true}
