@@ -25,4 +25,4 @@ ht-degree: 77%
 
 >[!IMPORTANT]
 >如果目標定位工作流程中有多個傳遞，您必須在傳遞層級與行銷活動設定中啟用控制組設定。
->請參閱產品檔案，深入瞭解如何定義控制組](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-target.html?lang=zh-Hant#defining-a-control-group){target="_blank"}及[傳遞目標母體](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-defining-the-target-population.html?lang=zh-Hant){target="_blank"}[
+>請參閱產品檔案，深入瞭解如何定義控制組[&#128279;](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-target.html?lang=zh-Hant#defining-a-control-group){target="_blank"}及[傳遞目標母體](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-defining-the-target-population.html?lang=zh-Hant){target="_blank"}
