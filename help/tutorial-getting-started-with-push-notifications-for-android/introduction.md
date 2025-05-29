@@ -2,7 +2,7 @@
 title: Android 推播通知教學課程快速入門 - 簡介
 description: 本教學課程將逐步引導您完成從 Adobe Campaign 傳送推播通知以及在 Android 應用程式中接收這些通知的步驟。
 feature: Push
-jira: KT-6438
+jira: KT-5951
 doc-type: article
 activity: setup
 team: TM
@@ -10,7 +10,7 @@ role: Admin, Developer
 level: Experienced
 recommendations: noDisplay
 exl-id: 291c2e3a-c126-439d-9753-06a4091bbda0
-source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
+source-git-commit: b56c0af81ed73fa06fe4846d0794167d35a26305
 workflow-type: tm+mt
 source-wordcount: '355'
 ht-degree: 100%
@@ -51,7 +51,7 @@ Adobe Campaign 可讓您將個人化和分段的 [!DNL push] 通知傳送至 [!D
 
 ### 步驟 1：擴充應用程式訂閱結構以個人化 [!DNL push] 通知
 
-由於我們想要個人化 [!DNL push] 通知，因此我們將先[擴充應用程式訂閱綱要](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)，以儲存使用者訂閱服務時從應用程式收到的個人化值。
+由於我們想要個人化 [!DNL push] 通知，因此我們將先[擴充應用程式訂閱結構描述](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)，以儲存使用者訂閱服務時從應用程式收到的個人化值。
 
 ### 步驟 2：設定 Android 服務並在 Campaign 中建立行動應用程式
 
@@ -63,4 +63,4 @@ Adobe Campaign 可讓您將個人化和分段的 [!DNL push] 通知傳送至 [!D
 
 ## 開始教學課程
 
-步驟 1：[擴充應用程式訂閱綱要](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)
+步驟 1：[擴充應用程式訂閱結構描述](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)
