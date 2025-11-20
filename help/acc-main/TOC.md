@@ -8,26 +8,26 @@ auto-video-transcripts: true
 source-git-commit: 6a43734b768f5bf8b3f6c605118a3c67e24d9cd3
 workflow-type: tm+mt
 source-wordcount: '415'
-ht-degree: 98%
+ht-degree: 93%
 
 ---
 
 
 # Adobe Campaign Classic v7 教學課程 {#tutorials}
 
-+ [Adobe Campaign Classic V7 -Tutorials](/help/overview.md)
-+ 開始使用{#getting-started}
++ [Adobe Campaign Classic V7 — 教學課程](/help/overview.md)
++ 開始使用 {#getting-started}
    + [Adobe Campaign Classic 簡介](/help/getting-started/introduction-to-adobe-campaign-classic.md)
    + [安裝及設定 Adobe Campaign 用戶端](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
    + [探索 Adobe Campaign Classic 使用者介面](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [管理行銷活動](/help/getting-started/managing-marketing-campaigns.md)
    + [建立行銷計劃、方案和行銷活動](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
    + [建立行銷活動和電子郵件](/help/getting-started/creating-a-campaign-and-an-email.md)
-   + [在工作流程中目標定位設定檔](/help/getting-started/targeting-profiles-in-a-workflow.md)
+   + [在工作流程中選擇目標輪廓](/help/getting-started/targeting-profiles-in-a-workflow.md)
    + [建立由事件觸發的行銷活動](/help/getting-started/create-event-triggered-campaigns.md)
 + 設定檔管理 {#profile-management}
-   + [建立和管理設定檔](/help/profile-management/create-and-manage-profiles.md)
-   + [匯入設定檔](/help/data-management/importing-profiles.md)
+   + [建立和管理輪廓](/help/profile-management/create-and-manage-profiles.md)
+   + [匯入輪廓](/help/data-management/importing-profiles.md)
    + [建立收件者清單](/help/profile-management/creating-a-list-of-recipients.md)
    + [使用工作流程建立收件者清單](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
 + 傳送訊息{#sending-messages}
@@ -49,13 +49,13 @@ ht-degree: 98%
       + [設計電子郵件以提供傳遞能力](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
       + [盡可能提高電子郵件 ROI，以及讓使用者重新參與的最佳實務](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=zh-Hant)
       + [傳遞能力最佳實務指南](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=zh-Hant)
-   + 簡訊頻道{#sms-channel}
+   + 簡訊頻道 {#sms-channel}
       + [建立簡訊傳遞](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
-   + 推播頻道{#push-channel}
+   + 推播頻道 {#push-channel}
       + [安裝行動應用程式頻道](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [使用 Experience Platform Mobile SDK 設定推播頻道](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
       + [Android 推播通知快速入門 (教學課程)](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html?lang=zh-Hant)
-   + 直接郵件{#direct-mail}
+   + 直接郵件 {#direct-mail}
       + [建立直接郵件傳遞](/help/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
    + 使用傳遞範本{#using-delivery-templates}
       + [設定傳遞範本](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
@@ -64,7 +64,7 @@ ht-degree: 98%
    + 疲勞管理{#fatigue-management}
       + [使用樣態規則](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [使用預定義篩選器](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
-   + 監視訊息{#monitoring-messages}
+   + 監控訊息 {#monitoring-messages}
       + [認識隔離管理](/help/sending-messages/quarantine-management.md)
    + [設定和管理訂閱服務](/help/sending-messages/configuring-and-managing-subscription-services.md)
 + 協調行銷活動 {#orchestration}
@@ -95,7 +95,7 @@ ht-degree: 98%
 + 監視 {#monitoring}
    + [工作流程熱度圖](/help/monitoring-campaign-classic/workflow-heatmap.md)
    + [稽核軌跡](/help/monitoring-campaign-classic/audit-trail.md)
-+ 資料管理{#data-management}
++ 資料管理 {#data-management}
    + [查詢資料](/help/data-management/query-data.md)
 + 整合 {#integrating}
    + [整合 Adobe Target](/help/integrations/target-integration.md)
@@ -103,8 +103,8 @@ ht-degree: 98%
 + 管理 {#administrating}
    + [控制面板](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=zh-Hant){target="_blank"}
    + [為 Adobe Campaign 設定簡訊](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=zh-Hant)
-   + 存取外部資料庫 (FDA) {#fda}
-      + [&#x200B; [!DNL Snowflake]上的巨量資料管理](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
+   + 存取外部資料庫(FDA) {#fda}
+      + [ [!DNL Snowflake]上的巨量資料管理](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [疑難排解 Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=zh-Hant)
-+ 策略與思想領導{#strategy}
++ 策略與思維領導力{#strategy}
    + [Adobe Campaign 成功行銷的十大最佳實務](/help/strategy/10-best-practices-for-marketers.md)
