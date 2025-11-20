@@ -104,7 +104,7 @@ ht-degree: 93%
    + [控制面板](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=zh-Hant){target="_blank"}
    + [為 Adobe Campaign 設定簡訊](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=zh-Hant)
    + 存取外部資料庫(FDA) {#fda}
-      + [ [!DNL Snowflake]上的巨量資料管理](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
+      + [&#x200B; [!DNL Snowflake]上的巨量資料管理](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [疑難排解 Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=zh-Hant)
 + 策略與思維領導力{#strategy}
    + [Adobe Campaign 成功行銷的十大最佳實務](/help/strategy/10-best-practices-for-marketers.md)
