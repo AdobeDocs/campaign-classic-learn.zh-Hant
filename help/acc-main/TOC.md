@@ -6,16 +6,16 @@ user-guide-description: Adobe Campaign Classic v7 影片和教學課程。
 breadcrumb-title: Campaign Classic v7 教學課程
 auto-video-transcripts: true
 source-git-commit: 6a43734b768f5bf8b3f6c605118a3c67e24d9cd3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '415'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
 
 # Adobe Campaign Classic v7 教學課程 {#tutorials}
 
-+ [Adobe Campaign Classic V7 — 教學課程](/help/overview.md)
++ [Adobe Campaign Classic V7 - 教學課程](/help/overview.md)
 + 開始使用 {#getting-started}
    + [Adobe Campaign Classic 簡介](/help/getting-started/introduction-to-adobe-campaign-classic.md)
    + [安裝及設定 Adobe Campaign 用戶端](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
@@ -25,7 +25,7 @@ ht-degree: 93%
    + [建立行銷活動和電子郵件](/help/getting-started/creating-a-campaign-and-an-email.md)
    + [在工作流程中選擇目標輪廓](/help/getting-started/targeting-profiles-in-a-workflow.md)
    + [建立由事件觸發的行銷活動](/help/getting-started/create-event-triggered-campaigns.md)
-+ 設定檔管理 {#profile-management}
++ 輪廓管理 {#profile-management}
    + [建立和管理輪廓](/help/profile-management/create-and-manage-profiles.md)
    + [匯入輪廓](/help/data-management/importing-profiles.md)
    + [建立收件者清單](/help/profile-management/creating-a-list-of-recipients.md)
@@ -64,7 +64,7 @@ ht-degree: 93%
    + 疲勞管理{#fatigue-management}
       + [使用樣態規則](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [使用預定義篩選器](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
-   + 監控訊息 {#monitoring-messages}
+   + 監視訊息 {#monitoring-messages}
       + [認識隔離管理](/help/sending-messages/quarantine-management.md)
    + [設定和管理訂閱服務](/help/sending-messages/configuring-and-managing-subscription-services.md)
 + 協調行銷活動 {#orchestration}
@@ -100,11 +100,11 @@ ht-degree: 93%
 + 整合 {#integrating}
    + [整合 Adobe Target](/help/integrations/target-integration.md)
    + [與 Dynamics 365 整合](/help/integrations/dynamics365-integration.md)
-+ 管理 {#administrating}
++ 系統管理 {#administrating}
    + [控制面板](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=zh-Hant){target="_blank"}
    + [為 Adobe Campaign 設定簡訊](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=zh-Hant)
-   + 存取外部資料庫(FDA) {#fda}
-      + [&#x200B; [!DNL Snowflake]上的巨量資料管理](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
+   + 存取外部資料庫 (FDA) {#fda}
+      + [ [!DNL Snowflake]上的巨量資料管理](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [疑難排解 Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=zh-Hant)
-+ 策略與思維領導力{#strategy}
++ 策略與思惟領導力{#strategy}
    + [Adobe Campaign 成功行銷的十大最佳實務](/help/strategy/10-best-practices-for-marketers.md)
