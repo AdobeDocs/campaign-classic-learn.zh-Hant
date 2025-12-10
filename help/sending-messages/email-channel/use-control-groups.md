@@ -21,7 +21,7 @@ ht-degree: 100%
 
 瞭解控制組的概念，並瞭解如何使用控制組進行傳遞。
 
->[!VIDEO](https://video.tv.adobe.com/v/330955?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449981?captions=chi_hant&quality=12&learn=on){transcript=true}
 
 >[!IMPORTANT]
 >如果目標定位工作流程中有多個傳遞，您必須在傳遞層級與行銷活動設定中啟用控制組設定。
