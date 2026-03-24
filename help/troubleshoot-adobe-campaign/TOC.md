@@ -6,18 +6,18 @@ index: true
 feature: Overview
 role: Admin
 level: Experienced
-source-git-commit: d0fc0f9009f090af6f2bc366d199594026044d18
+source-git-commit: 5a07e5b566e2d8b2340c159a174b4487b444187e
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 100%
+source-wordcount: '166'
+ht-degree: 94%
 
 ---
 
 
 # 疑難排解 Adobe Campaign {#troubleshooting}
 
-+ [疑難排解 Adobe Campaign — 概覽](/help/troubleshoot-adobe-campaign/overview.md)
-+ 登入與用戶端控制台{#login-and-client-console}
++ [疑難排解 Adobe Campaign — 概觀](/help/troubleshoot-adobe-campaign/overview.md)
++ 登入與使用者端主控台 {#login-and-client-console}
    + [登入期間顯示指令碼錯誤或警告](/help/troubleshoot-adobe-campaign/script-error-during-login-errors.md)
    + [修正主控台登入錯誤](/help/troubleshoot-adobe-campaign/console-login-errors.md)
    + [修正零識別碼](/help/troubleshoot-adobe-campaign/fixing-zero-id.md)
@@ -26,9 +26,9 @@ ht-degree: 100%
    + [增加平行執行工作流程的數量](/help/troubleshoot-adobe-campaign/increase-parallel-workflows.md)
    + [根據保留結果條件篩選工作流程](/help/troubleshoot-adobe-campaign/keep-result-workflow.md)
    + [查詢傳遞輸出名稱](/help/troubleshoot-adobe-campaign/query-delivery-output-names.md)
-   + [核准優惠時工作階段過期](/help/troubleshoot-adobe-campaign/session-expired-approving-offer.md)
+   + [核准產品建議時工作階段過期](/help/troubleshoot-adobe-campaign/session-expired-approving-offer.md)
    + [行銷活動工作流程中的無條件停止](/help/troubleshoot-adobe-campaign/unconditional-stop-workflow.md)
-+ 傳遞和頻道{#deliveries-and-channels}
++ 傳遞和頻道 {#deliveries-and-channels}
    + [避免已停用的訊息發送電子郵件](/help/troubleshoot-adobe-campaign/disabled-messages-sending-emails.md)
    + [偵錯傳送中的訊息取消錯誤](/help/troubleshoot-adobe-campaign/message-cancelled-error.md)
    + [簡訊傳送進入擱置狀態](/help/troubleshoot-adobe-campaign/resolve-pending-state-sms-delivery.md)
