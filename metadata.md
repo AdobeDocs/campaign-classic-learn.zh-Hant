@@ -6,33 +6,33 @@ solution: Campaign, Campaign Classic v7
 version: Campaign Classic v7
 feature-set: Campaign
 mini-toc-levels: 3
-git-repo: https://github.com/AdobeDocs/campaign-classic-learn.zh-Hant
+git-repo: https://github.com/AdobeDocs/campaign-classic-learn.en
 index: true
 source-git-commit: 5a07e5b566e2d8b2340c159a174b4487b444187e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '149'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# 內部使用的中繼資料
+# 內部專用中繼資料
 
-metadata.md檔案包含存放庫層級中繼資料，這些中繼資料會傳遞至存放庫中的使用手冊TOC.md檔案。 如果您想要變更任何使用手冊的metadata.md內容，請在任何TOC.md檔案中進行變更。
+metadata.md 檔案包含存放庫層級的中繼資料，會將以上資料傳遞至存放庫中的使用者指南 TOC.md 檔案。若您想針對任何使用者指南，變更 metadata.md 的內容，請開啟任何 TOC.md 檔案，就能變更資料。
 
-| 中繼資料 | 作用 |
+| 中繼資料 | 功能說明 |
 |--- |--- |
-| solution-title | 在文章標題中作為連結使用 |
-| solution-hub-url | 開啟Helpx中樞頁面 |
-| solution-icon | 在解決方案標題旁邊顯示解決方案圖示。 尚未實作 |
-| getting-started-url | helpx快速入門頁面連結 |
-| tutorials-url | 教學課程影片（helpx或KT教學課程其中之一）的連結 |
-| mini-toc-levels | 決定顯示在右側欄中的標題層數。 預設為2 |
-| git-repo | 指定內部使用的主要存放庫位置 |
+| solution-title | 可用來當作文章標題中的連結 |
+| solution-hub-url | 開啟 HelpX 中心頁面 |
+| solution-icon | 會在解決方案標題旁，顯示解決方案圖示。尚未執行 |
+| getting-started-url | 連結至 HelpX 快速入門頁面 |
+| tutorials-url | 連結至影片教學課程，包含 HelpX 教學課程，或是 KT 教學課程 |
+| mini-toc-levels | 決定右側邊欄中顯示的標題層級數量。預設值為 2 |
+| git-repo | 指定內部專用的主要存放庫位置 |
 
-在TOC.md檔案中
+在 TOC.md 檔案中
 
-| 中繼資料 | 作用 |
+| 中繼資料 | 功能說明 |
 |--- |--- |
-| user-guide-title | 在文章標題中作為連結使用 |
-| 使用手冊 — url | 開啟Helpx中樞頁面 |
+| user-guide-title | 可用來當作文章標題中的連結 |
+| user-guide-url | 開啟 HelpX 中心頁面 |

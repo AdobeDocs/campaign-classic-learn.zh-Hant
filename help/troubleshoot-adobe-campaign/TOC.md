@@ -7,9 +7,9 @@ feature: Overview
 role: Admin
 level: Experienced
 source-git-commit: 5a07e5b566e2d8b2340c159a174b4487b444187e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '166'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 94%
 # 疑難排解 Adobe Campaign {#troubleshooting}
 
 + [疑難排解 Adobe Campaign — 概觀](/help/troubleshoot-adobe-campaign/overview.md)
-+ 登入與使用者端主控台 {#login-and-client-console}
++ 登入和用戶端主控台 {#login-and-client-console}
    + [登入期間顯示指令碼錯誤或警告](/help/troubleshoot-adobe-campaign/script-error-during-login-errors.md)
    + [修正主控台登入錯誤](/help/troubleshoot-adobe-campaign/console-login-errors.md)
    + [修正零識別碼](/help/troubleshoot-adobe-campaign/fixing-zero-id.md)

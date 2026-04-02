@@ -9,9 +9,9 @@ jira: KT-11772
 last-substantial-update: 2023-01-31T00:00:00Z
 exl-id: 7152c09f-7ea0-49a8-ac3b-cc304d42c7e4
 source-git-commit: 5a07e5b566e2d8b2340c159a174b4487b444187e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1354'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -22,13 +22,13 @@ Christian Klimczyk 自稱為「Adobe 控」，擁有 7 年的 [!DNL Adobe Experi
 Christian 在本文分享自己的最佳實務，以便幫助 Adobe Campaign 從業人員充分發揮及加速消費者數位轉型，並為客戶提供更佳體驗。
 
 
-## &#x200B;1. 形成包羅萬象的內嵌式行銷與傳遞計畫
+## &#x200B;1. 制定整體協調行銷、交付計劃
 
 確保您成功執行 [!DNL Adobe Campaign] 的第一步是了解您的工具與客戶期望，而這點不論對任何類型的行銷而言均成立。 清楚定義並了解您聯絡消費者的頻道，了解何時及為何使用該頻道。
 
-Adobe Campaign是一款彈性的工具，可讓您以多種方式執行及協調通訊。[半數客戶在每次購買歷程中都與3至5個管道互動](https://www.mckinsey.com/capabilities/operations/our-insights/redefine-the-omnichannel-approach-focus-on-what-truly-matters)。 因此，了解並事先規劃如何使用這些頻道，對於實現平台的全部潛力並與客戶產生共鳴至關重要。
+Adobe Campaign 是一款彈性工具，讓您可以透過多種方式，執行並協調溝通活動。[半數客戶每次購買旅程時，都會使用三到五種頻道](https://www.mckinsey.com/capabilities/operations/our-insights/redefine-the-omnichannel-approach-focus-on-what-truly-matters)。因此，了解並事先規劃如何使用這些頻道，對於實現平台的全部潛力並與客戶產生共鳴至關重要。
 
-## &#x200B;2. 記錄並瞭解您的客戶資料
+## &#x200B;2. 記錄並了解您的客戶資料
 
 <!--
 Sandra, this paragraph opens as if it's going to discuss the advantages of segmentation, but it left me hanging. So, I hit the Hubspot link and dug into it a bit, and it seemed to me like the juicy information is this quote: 
@@ -50,41 +50,41 @@ I added that second paragraph about 760% revenue and broke up the rest of the se
 
 跟您的顧客一樣，您每天都有例行活動。 行銷活動的傳送及協調應符合此節奏。 否則，您可能無法聯絡客戶，因為 [85% 的已傳送郵件未開啟，而 98%的已傳送郵件未獲點進](https://www.validity.com/resource-center/state-of-email-2021/)。
 
-例如，如果客戶早上利用手機查看最佳交易，您可考慮傳送行銷活動簡訊給他們。 如果他們在晚上瀏覽下個熱門趨勢，請考慮傳送後續電子郵件，內含免運費促銷代碼。 同樣重要的是，利用 [!DNL Campaign] 的熱度圖工具來追蹤工作流程與傳送的執行時間。 協調和促進多個品牌的通訊可能具有挑戰性。[留意並瞭解您電子郵件的節奏、步調和時機](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554?profile.language=zh-Hant)，對於訊息和Campaign執行個體的整體穩定性和強度而言是極為寶貴的。
+例如，如果客戶早上利用手機查看最佳交易，您可考慮傳送行銷活動簡訊給他們。 如果他們在晚上瀏覽下個熱門趨勢，請考慮傳送後續電子郵件，內含免運費促銷代碼。 同樣重要的是，利用 [!DNL Campaign] 的熱度圖工具來追蹤工作流程與傳送的執行時間。 跨多項品牌協調、促進溝通活動，可能挑戰性十足。[密切留意、掌握電子郵件](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554)的頻率、節奏和時機，對訊息的整體穩定性、強度和 Campaign 執行個體而言，非常重要。
 
-## &#x200B;4. 在重要之處使用個人化
+## &#x200B;4. 請在關鍵處，使用個人化設定
 
-現今，消費者期望在收到的訊息中提供某種程度的個人化。[80%的客戶更可能從提供個人化體驗](https://us.epsilon.com/power-of-me)的品牌購買。 主旨使用其名字是個好點子。 不過，個人化可更進一步。 您可納入其瀏覽過的產品、將其與連結至類似產品，或繼續強化您品牌的整體體驗與外觀感受。 每項做法均有其成效，並能推動訊息的參與度及點開率。
+當今的消費者期望在收到的訊息中，可以查看一定程度的個人化內容。[當今的消費者期望在收到訊息中，可以看到一定程度的個人化內容](https://us.epsilon.com/power-of-me)。主旨使用其名字是個好點子。 不過，個人化可更進一步。 您可納入其瀏覽過的產品、將其與連結至類似產品，或繼續強化您品牌的整體體驗與外觀感受。 每項做法均有其成效，並能推動訊息的參與度及點開率。
 
-## &#x200B;5. 擁有健全的創意資產清查
+## &#x200B;5. 保有健全的創意資產庫存
 
 創意資產 Assets 是火車頭，協助您推動有效且良好運作的行銷活動。 隨著成功接觸消費者，您的行銷流程也跟著擴展及成熟，而您也需要更豐富的創意內容。 消費者對此有所期待。
 
-您團隊可設定的下一筆傳送速度決定了您的進展速度。 這通常需要全新的令人興奮的內容。[!DNL Adobe Campaign] 可讓您輕鬆設定範本以及接收和準備這些傳送。 然而，擁有健全的創意素材管道極為重要，因為根據 [Litmus 報告](https://www.litmus.com/resources/state-of-email/)，58% 的行銷人員指出，建立單一電子郵件行銷活動需要兩週或更久的時間。
+您團隊可設定的下一筆傳送速度決定了您的進展速度。 通常需要吸引人的全新內容。[!DNL Adobe Campaign]讓設定範本、接收和準備以上交付內容變得輕而易舉。然而，擁有健全的創意素材管道極為重要，因為根據 [Litmus 報告](https://www.litmus.com/resources/state-of-email/)，58% 的行銷人員指出，建立單一電子郵件行銷活動需要兩週或更久的時間。
 
-## &#x200B;6. 瞭解和管理訂閱和偏好設定
+## &#x200B;6. 了解並管理訂閱、偏好設定
 
 管理及維護訂閱偏好設定可能會迅速變得令人困惑，導致各種層級的風險。 例如，透過客戶不會回應的頻道向其傳送錯誤訊息，九成消費者表示，負面體驗會降低其未來購買該品牌的可能性。 從更大的規模來看，您可能會面臨法規與合規風險以及罰款。
 
 透過使用專業的[!DNL Adobe Campaign]與其他行銷技術工具，您可預先制定策略以管理選擇加入項目並耕耘這個不斷發展的生態系統。 這通常是最大的行銷活動成功量度之一，因此，隨著行銷活動策略的發展及成熟，周密的規劃會帶來寶貴的回報。
 
-## &#x200B;7. 瞭解並規劃傳遞能力
+## &#x200B;7. 了解並計劃傳遞能力
 
 _傳遞能力_&#x200B;通常看似是神秘而複雜的概念。 傳遞能力的重要基本規則是策略規劃。 準備 IP 位址並建立良好聲譽需要時間。 聲譽可能在短時間內下降，導致修復任何已發生的損害成為一大挑戰。 事實上， **六分之一的電子郵件無法到達收件匣**。
 
 傳遞能力問題可能肇因於多種因素：技術因素或根據消費者對行銷回應方式而產生的問題。 在建立並執行行銷活動以及在回顧流程時，把[傳遞能力](https://business.adobe.com/tw/products/campaign/email-deliverability.html)謹記在心可確保您維持健康且穩定的環境，並持續向客戶提供正面體驗。
 
-## &#x200B;8. 規劃及開發行銷活動追溯程式
+## &#x200B;8. 計劃並開發行銷活動回顧流程
 
 儘管您忙於行銷活動的傳遞及協調，但檢閱您已完成的工作並重新評估行銷活動的流程與細分，常會發揮同樣或甚至更大的效果。 根據行銷活動執行的規模與速度，每兩到四週回顧一次行銷活動。
 
 建立一組範本問題有助進行深入且深思熟慮的對話，主題可涵蓋如何改善行銷活動前置時間、創造性或細分市場等等。 有時僅能從先前執行的活動汲取經驗，改善並加快速度。
 
-## &#x200B;9. 測試及重複
+## &#x200B;9. 測試並疊代
 
 當嘗試新事物時，未必能一次就取得成功。 因此，測試並重覆流程與策略非常重要。 在一組可能希望不大或可能是很合適的客戶對象上試試。 切換創意內容。 嘗試新號召用語。 為改變而改變往往效果不彰，但若進行許多小型而精確的實驗，長時間下來可能為您與客戶積累出未來巨大的勝利。
 
-## &#x200B;10. 儘可能保持敏捷
+## &#x200B;10. 盡可能保持高度敏捷
 
 市場持續變化，並以越來越快的速度前進。 鼓勵您的行銷活動團隊盡可能保持輕快敏捷，這對保持競爭力並繼續滿足不斷提高的客戶期望至關重要。
 

@@ -4,7 +4,7 @@ user-guide-description: 本教學課程將逐步引導您完成從 Adobe Campaig
 breadcrumb-title: Android 推播通知快速入門
 index: true
 source-git-commit: 5a07e5b566e2d8b2340c159a174b4487b444187e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
 ht-degree: 100%
 

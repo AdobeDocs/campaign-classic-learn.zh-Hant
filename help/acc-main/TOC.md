@@ -7,7 +7,7 @@ breadcrumb-title: Campaign Classic v7 教學課程
 auto-video-transcripts: true
 source-git-commit: 6a43734b768f5bf8b3f6c605118a3c67e24d9cd3
 workflow-type: ht
-source-wordcount: '415'
+source-wordcount: '485'
 ht-degree: 100%
 
 ---
@@ -46,9 +46,9 @@ ht-degree: 100%
       + [使用 AMP 定義互動式電子郵件內容](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
       + [疑難排解電子郵件傳遞問題](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
       + [將附件新增至電子郵件傳遞](/help/sending-messages/email-channel/add-attachments-to-an-email-delivery.md)
-      + [設計電子郵件以提供傳遞能力](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
-      + [盡可能提高電子郵件 ROI，以及讓使用者重新參與的最佳實務](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=zh-Hant)
-      + [傳遞能力最佳實務指南](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=zh-Hant)
+      + [設計電子郵件以獲得傳遞能力](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
+      + [最大限度地提高電子郵件 ROI，以及讓訂閱者重新參與的最佳實務](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=zh-Hant)
+      + [傳遞能力最佳做法指南](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=zh-Hant)
    + 簡訊頻道 {#sms-channel}
       + [建立簡訊傳遞](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
    + 推播頻道 {#push-channel}
