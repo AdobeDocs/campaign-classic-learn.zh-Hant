@@ -21,4 +21,4 @@ ht-degree: 100%
 
 瞭解如何傳送及驗證校樣。
 
->[!VIDEO](https://video.tv.adobe.com/v/330945?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448928?captions=chi_hant&learn=on){transcript=true}
