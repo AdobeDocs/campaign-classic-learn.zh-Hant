@@ -7,4 +7,4 @@ ht-degree: 0%
 ---
 # 已封存
 
-此存放庫已移轉至<https://github.com/Adobe-Enterprise-Docs/campaign-classic-learn.en>。
+此存放庫已移轉至<https://github.com/Adobe-Enterprise-Docs/campaign-classic-learn.zh-Hant>。
