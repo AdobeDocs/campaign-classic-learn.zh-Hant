@@ -1,10 +1,10 @@
 ---
-source-git-commit: e15b3defbd1232e95d19e46a7ea4c508eb66ad8e
-workflow-type: ht
-source-wordcount: '10'
-ht-degree: 100%
+source-git-commit: 19438d0e856ffd31c1ef309c1dad5dc1bf54e7d8
+workflow-type: tm+mt
+source-wordcount: '7'
+ht-degree: 0%
 
 ---
-# campaign-classic-learn.en
+# 已封存
 
-Campaign 協作教學課程和啟動素材
+此存放庫已移轉至<https://github.com/Adobe-Enterprise-Docs/campaign-classic-learn.en>。
