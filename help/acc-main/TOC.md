@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign Classic v7 教學課程
 user-guide-description: Adobe Campaign Classic v7 影片和教學課程。
 breadcrumb-title: Campaign Classic v7 教學課程
 auto-video-transcripts: true
-source-git-commit: 6a43734b768f5bf8b3f6c605118a3c67e24d9cd3
-workflow-type: ht
+source-git-commit: 22e97df9f7f13f03a1b0a2830b4a2b62c752c731
+workflow-type: tm+mt
 source-wordcount: '485'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -99,7 +99,7 @@ ht-degree: 100%
    + [查詢資料](/help/data-management/query-data.md)
 + 整合 {#integrating}
    + [整合 Adobe Target](/help/integrations/target-integration.md)
-   + [與 Dynamics 365 整合](/help/integrations/dynamics365-integration.md)
+   + {hide-from-toc}[與Dynamics 365](/help/integrations/dynamics365-integration.md)整合
 + 系統管理 {#administrating}
    + [控制面板](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=zh-Hant){target="_blank"}
    + [為 Adobe Campaign 設定簡訊](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=zh-Hant)
