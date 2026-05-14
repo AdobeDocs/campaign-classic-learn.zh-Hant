@@ -10,18 +10,25 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 21d542e9-c021-4e05-b570-a55cac196c3a
-source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
+TQID: https://experienceleague.adobe.com/52OoKtY9gojDqmfTX9z0nRgb1ueeZZDcAFnfP3pUIFI
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: ccbe1ae144ce2079b11103b9b8a9344fed56cbd2
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 50%
+source-wordcount: 89
+ht-degree: 57%
 
 ---
 
 # 管理行銷活動中的核准
 
-透過核准，操作員可決定管理工作流程的管理決策，或確認工作流程的繼續執行。
+透過核准，操作人員可以決定管理工作流程決策，或確認繼續執行。
 瞭解如何設定核准和行銷活動，以及如何區分傳遞和工作流程核准。
 
->[!VIDEO](https://video.tv.adobe.com/v/3452629?quality=12&learn=on&captions=chi_hant){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452629?captions=chi_hant&quality=12&learn=on){transcript=true}
 
 若要進一步瞭解如何定義核准，請參閱[產品檔案](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html?lang=zh-Hant#sending-emails)。

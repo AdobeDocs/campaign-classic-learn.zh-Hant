@@ -6,11 +6,26 @@ feature: Personalization, Campaigns, Subscriptions, Deliverability
 role: User
 level: Beginner
 jira: KT-11772
-last-substantial-update: 2023-01-31T00:00:00Z
+last-substantial-update: 2023-01-31T00:00:00.000Z
 exl-id: 7152c09f-7ea0-49a8-ac3b-cc304d42c7e4
-source-git-commit: 5a07e5b566e2d8b2340c159a174b4487b444187e
-workflow-type: ht
-source-wordcount: '1354'
+TQID: https://experienceleague.adobe.com/jiq7zZmYG0oBm3EEDbovZSuYXSN1mAChXMMrc656tJg
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+feature_v2:
+  - id: a075b2c1-7748-4328-b7f6-343aa314616a
+  - id: a658c786-869b-4194-a780-2594d663adda
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
+source-git-commit: ccbe1ae144ce2079b11103b9b8a9344fed56cbd2
+workflow-type: tm+mt
+source-wordcount: 1354
 ht-degree: 100%
 
 ---
@@ -26,7 +41,7 @@ Christian 在本文分享自己的最佳實務，以便幫助 Adobe Campaign 從
 
 確保您成功執行 [!DNL Adobe Campaign] 的第一步是了解您的工具與客戶期望，而這點不論對任何類型的行銷而言均成立。 清楚定義並了解您聯絡消費者的頻道，了解何時及為何使用該頻道。
 
-Adobe Campaign 是一款彈性工具，讓您可以透過多種方式，執行並協調溝通活動。[半數客戶每次購買旅程時，都會使用三到五種頻道](https://www.mckinsey.com/capabilities/operations/our-insights/redefine-the-omnichannel-approach-focus-on-what-truly-matters)。因此，了解並事先規劃如何使用這些頻道，對於實現平台的全部潛力並與客戶產生共鳴至關重要。
+Adobe Campaign 是一項彈性工具，可讓您以多種方式執行及協調通訊。 [在每次購買歷程，五成客戶會採用三到五種頻道](https://www.mckinsey.com/capabilities/operations/our-insights/redefine-the-omnichannel-approach-focus-on-what-truly-matters)。 因此，了解並事先規劃如何使用這些頻道，對於實現平台的全部潛力並與客戶產生共鳴至關重要。
 
 ## &#x200B;2. 記錄並了解您的客戶資料
 
@@ -50,17 +65,17 @@ I added that second paragraph about 760% revenue and broke up the rest of the se
 
 跟您的顧客一樣，您每天都有例行活動。 行銷活動的傳送及協調應符合此節奏。 否則，您可能無法聯絡客戶，因為 [85% 的已傳送郵件未開啟，而 98%的已傳送郵件未獲點進](https://www.validity.com/resource-center/state-of-email-2021/)。
 
-例如，如果客戶早上利用手機查看最佳交易，您可考慮傳送行銷活動簡訊給他們。 如果他們在晚上瀏覽下個熱門趨勢，請考慮傳送後續電子郵件，內含免運費促銷代碼。 同樣重要的是，利用 [!DNL Campaign] 的熱度圖工具來追蹤工作流程與傳送的執行時間。 跨多項品牌協調、促進溝通活動，可能挑戰性十足。[密切留意、掌握電子郵件](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554?profile.language=zh-Hant)的頻率、節奏和時機，對訊息的整體穩定性、強度和 Campaign 執行個體而言，非常重要。
+例如，如果客戶早上利用手機查看最佳交易，您可考慮傳送行銷活動簡訊給他們。 如果他們在晚上瀏覽下個熱門趨勢，請考慮傳送後續電子郵件，內含免運費促銷代碼。 同樣重要的是，利用 [!DNL Campaign] 的熱度圖工具來追蹤工作流程與傳送的執行時間。 協調及促進跨多個品牌的通訊可能是一項挑戰。 對於訊息與行銷活動執行個體的整體穩定性及力量而言，[密切關注並了解電子郵件的節奏、步調與時間](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554?profile.language=zh-Hant)重要性不可小覷。
 
 ## &#x200B;4. 請在關鍵處，使用個人化設定
 
-當今的消費者期望在收到的訊息中，可以查看一定程度的個人化內容。[當今的消費者期望在收到訊息中，可以看到一定程度的個人化內容](https://us.epsilon.com/power-of-me)。主旨使用其名字是個好點子。 不過，個人化可更進一步。 您可納入其瀏覽過的產品、將其與連結至類似產品，或繼續強化您品牌的整體體驗與外觀感受。 每項做法均有其成效，並能推動訊息的參與度及點開率。
+如今，消費者期望收到一定程度個人化的訊息。 [80% 的客戶較可能從提供個人化體驗的品牌購物](https://us.epsilon.com/power-of-me)。 主旨使用其名字是個好點子。 不過，個人化可更進一步。 您可納入其瀏覽過的產品、將其與連結至類似產品，或繼續強化您品牌的整體體驗與外觀感受。 每項做法均有其成效，並能推動訊息的參與度及點開率。
 
 ## &#x200B;5. 保有健全的創意資產庫存
 
 創意資產 Assets 是火車頭，協助您推動有效且良好運作的行銷活動。 隨著成功接觸消費者，您的行銷流程也跟著擴展及成熟，而您也需要更豐富的創意內容。 消費者對此有所期待。
 
-您團隊可設定的下一筆傳送速度決定了您的進展速度。 通常需要吸引人的全新內容。[!DNL Adobe Campaign]讓設定範本、接收和準備以上交付內容變得輕而易舉。然而，擁有健全的創意素材管道極為重要，因為根據 [Litmus 報告](https://www.litmus.com/resources/state-of-email/)，58% 的行銷人員指出，建立單一電子郵件行銷活動需要兩週或更久的時間。
+您團隊可設定的下一筆傳送速度決定了您的進展速度。 這通常需要新穎而令人興奮的內容。 [!DNL Adobe Campaign] 讓設定範本以及接收與準備傳送變得簡單。 然而，擁有健全的創意素材管道極為重要，因為根據 [Litmus 報告](https://www.litmus.com/resources/state-of-email/)，58% 的行銷人員指出，建立單一電子郵件行銷活動需要兩週或更久的時間。
 
 ## &#x200B;6. 了解並管理訂閱、偏好設定
 
