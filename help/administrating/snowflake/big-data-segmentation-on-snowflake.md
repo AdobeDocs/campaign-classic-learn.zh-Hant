@@ -47,4 +47,4 @@ ht-degree: 51%
 
 >[!VIDEO](https://video.tv.adobe.com/v/31588?quality=12&learn=on){transcript=true}
 
-如需如何設定Snowflake存取權的詳細資訊，請參閱[產品檔案](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/configure-fda/config-databases/configure-fda-snowflake.html?lang=en#installing-campaign-classic)。
+如需如何設定Snowflake存取權的詳細資訊，請參閱[產品檔案](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/configure-fda/config-databases/configure-fda-snowflake.html?lang=zh-Hant#installing-campaign-classic)。

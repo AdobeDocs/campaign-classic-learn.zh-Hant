@@ -31,4 +31,4 @@ ht-degree: 57%
 
 >[!VIDEO](https://video.tv.adobe.com/v/329605?quality=12&learn=on){transcript=true}
 
-若要進一步瞭解如何定義核准，請參閱[產品檔案](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html?lang=en#sending-emails)。
+若要進一步瞭解如何定義核准，請參閱[產品檔案](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html?lang=zh-Hant#sending-emails)。
