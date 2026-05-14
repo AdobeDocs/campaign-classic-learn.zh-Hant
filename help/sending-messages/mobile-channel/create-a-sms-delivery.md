@@ -28,4 +28,4 @@ ht-degree: 100%
 
 瞭解如何建立簡訊傳遞。
 
->[!VIDEO](https://video.tv.adobe.com/v/330982?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3441441?captions=chi_hant&learn=on){transcript=true}
