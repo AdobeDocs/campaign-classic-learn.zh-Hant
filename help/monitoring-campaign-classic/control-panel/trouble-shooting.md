@@ -6,7 +6,15 @@ jira: KT-2938
 doc-type: article
 activity: use
 team: PM
-source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: fd6e6e36-54e4-4f1a-96fc-1a750e400d50
+    internal-label: Campaign Classic v7
+feature_v2:
+  - id: ae9127b0-c11d-467b-903d-a84cef43f6ed
+    internal-label: Control Panel
+source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
 workflow-type: tm+mt
 source-wordcount: '353'
 ht-degree: 67%
