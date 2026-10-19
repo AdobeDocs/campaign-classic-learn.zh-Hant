@@ -28,7 +28,7 @@ topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
 source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '60'
 ht-degree: 100%
 ---
@@ -36,4 +36,4 @@ ht-degree: 100%
 
 了解如何設定、個人化及測試電子郵件傳遞內容。 了解如何使用範本、上傳影像、新增表情符號，以及嵌入條碼與 QR 碼。
 
->[!VIDEO](https://video.tv.adobe.com/v/3453873?captions=chi_hant&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3419047?learn=on){transcript=true}

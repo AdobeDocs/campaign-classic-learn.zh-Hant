@@ -31,7 +31,7 @@ topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
     internal-label: Reporting
 source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '89'
 ht-degree: 100%
 ---
@@ -41,4 +41,4 @@ ht-degree: 100%
 
 瞭解如何根據客戶與第一次傳送的互動，使用電子郵件和直接郵件傳送，建立跨頻道行銷活動。
 
->[!VIDEO](https://video.tv.adobe.com/v/3453532?captions=chi_hant&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/330990?quality=12&learn=on){transcript=true}

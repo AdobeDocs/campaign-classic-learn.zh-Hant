@@ -32,9 +32,9 @@ topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
 source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '255'
-ht-degree: 83%
+ht-degree: 100%
 ---
 # Adobe Campaign Classic v7 教學課程
 
@@ -71,7 +71,7 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
   </td>
    <td>
     <a href="./monitoring-campaign-classic/audit-trail.md">
-      <img alt="稽核軌跡（影片）" src="./assets/acc-audit-trail-thumb.png" />
+      <img alt="稽核軌跡 (影片)" src="./assets/acc-audit-trail-thumb.png" />
     </a>
     <div>
       <a href="./monitoring-campaign-classic/audit-trail.md">
@@ -84,11 +84,11 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
   </td>
   <td>
     <a href="./sending-messages/email-channel/defining-interactive-email-content-with-amp.md">
-      <img alt="使用 AMP 定義互動式電子郵件內容（影片）" src="./assets/29940.png" />
+      <img alt="使用 AMP 定義互動式電子郵件內容 (影片)" src="./assets/29940.png" />
     </a>
     <div>
       <a href="./sending-messages/email-channel/defining-interactive-email-content-with-amp.md">
-    <strong>使用AMP定義互動式電子郵件內容</strong>
+    <strong>使用 AMP 定義互動式電子郵件內容</strong>
     </a>
     </div>
     <p>
