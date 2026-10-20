@@ -41,7 +41,7 @@ ht-degree: 100%
 Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷活動的策劃、即時互動管理和跨頻道執行提供環境。 本使用者指南包含了 Adobe Campaign Classic V7 許多功能的相關影片和教學課程。
 
 >[!INFO]
-> 有疑問嗎？ 您想與同行分享經驗或交流想法嗎？ 或者，您是否對 Adobe 團隊的學習內容有回饋？ 在 [Adobe Campaign 學習社群對話串](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)中加入對話！
+> 有疑問嗎？ 您想與同行分享經驗或交流想法嗎？ 或者，您是否對 Adobe 團隊的學習內容有回饋？ 在 [Adobe Campaign 學習社群對話串](https://experienceleaguecommunities.adobe.com?lang=zh_tw:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)中加入對話！
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
