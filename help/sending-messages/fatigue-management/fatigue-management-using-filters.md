@@ -51,6 +51,6 @@ ht-degree: 38%
 
 此影片說明如何使用篩選器在Adobe Campaign Classic中實施疲勞管理。
 
->[!VIDEO](https://video.tv.adobe.com/v/25091?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507481?captions=chi_hant&quality=12&learn=on){transcript=true}
 
 請瀏覽產品檔案以進一步瞭解[行銷活動型別](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=zh-Hant)。
